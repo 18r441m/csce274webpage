@@ -5,7 +5,7 @@ body {
     padding: 0;
     background-color: #ffffff;
     font-family: 'Poppins', sans-serif;
-    color: #73000a;
+    color: #1F414D;
 }
 
 nav {
@@ -14,7 +14,7 @@ nav {
     top: 0;
     height: 60px;
     width: 100vw;
-    background-color: #73000a;
+    background-color: #1F414D;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@ main {
 
 .title {
     font-size: 50px;
-    color: #73000a;
+    color: #1F414D;
     text-align: center;
 }
 
@@ -51,8 +51,8 @@ main {
 
 .btn {
     background-color: #ffffff;
-    border: 2px solid #73000a;
-    color: #73000a;
+    border: 2px solid #1F414D;
+    color: #1F414D;
     border-radius: 2em;
     padding: 14px 28px;
     font-size: 20px;
@@ -66,11 +66,11 @@ main {
   
 .btn:hover {
     color: #ffffff;
-    background-color: #73000a;
+    background-color: #1F414D;
 }
   
 .note {
-    color: #CED319;
+    color: #CC2E40;
     text-align: center;
 }
 
@@ -89,7 +89,7 @@ a {
 }
 
 table, th, td {
-    border: 2px solid #73000a;
+    border: 2px solid #1F414D;
 }
 
 th, td {
@@ -98,7 +98,7 @@ th, td {
 
 table {
     color: #ffffff;
-    color: #73000a;
+    color: #1F414D;
 }
 
 .table-header {
